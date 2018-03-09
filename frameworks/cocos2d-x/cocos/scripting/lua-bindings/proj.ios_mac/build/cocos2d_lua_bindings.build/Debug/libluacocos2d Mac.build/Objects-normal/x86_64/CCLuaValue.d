@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.cpp \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/lua.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/luaconf.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccTypes.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCGeometry.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformMacros.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccConfig.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformConfig.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformDefine.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCPlatformDefine-mac.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccMacros.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCConsole.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCRef.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCStdC.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCStdC-mac.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccRandom.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMath.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMathBase.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.inl \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.inl \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.inl \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.inl \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.inl \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCGL.h \
+  /Users/dave/projects/cocos2d-x/games/BattleTetris/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCGL-mac.h
